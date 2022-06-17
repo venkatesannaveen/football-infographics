@@ -5,5 +5,5 @@ Collection of European and International football infographics
 
 ## 2021-22 English Premier League Table  
 <p align="center">
-<img src="./2022-epl-table/epl_table.png" width=600px>
+<img src="./2022-epl-table/epl-table.png" width=600px>
 <p>
